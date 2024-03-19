@@ -68,25 +68,29 @@
    <br />
    <h2>FORMS</h2>
    <form action="backend.php">
-    <div>
-      Name:<input type="text">
+     <div>
+      <label for="name"> name </label>
+     <input type="text" name="My name" id="name"> 
  </div>
  <br>
  <div>
-   Role: <input type="text">
+  <label for="role"> Role</label>
+   <input type="text" name="My role" id="role">
   </div>
   <br>
   <div>
-    email: <input type="email" name="My email">
-
+    <label for="email">email</label>
+    <input type="email" name="My email" id="email">
   </div>
   <br>
    <div>
-    Date:<input type="date" name="My date" >
+    <label for="date">Date</label>
+    <input type="date" name="My date" id="date">
   </div>
   <br>
   <div>
-    Bonus:<input type="number" name="MY bonus">
+    <label for="bonus">Bonus</label>
+    <input type="number" name="MY bonus" id="bonus">
   </div>
   
   <br>
@@ -95,7 +99,12 @@
   </div>
   <br>
   <div>
-    Terms and Conditions:<input type="checkbox" name="conditions" >
+    <label for="yourself">Write about yourself</label>
+    <br><textarea name="my text" cols="30" rows="10" id="yourself"></textarea>
+  </div>
+  <div>
+    <label for="Terms">Terms and Conditions</label>
+    <input type="checkbox" name="conditions" id="Terms">
   </div>
   <br>
   <div>
