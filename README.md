@@ -5,4 +5,6 @@ HTML day 1 code
 ![image](https://github.com/Datta1153/web-development-learning/assets/163277444/250f017d-3fb2-42bf-8082-6753cddf5711)
 ![image](https://github.com/Datta1153/web-development-learning/assets/163277444/4722970c-26b2-4ca5-9ae1-2ad5d4edd63f)
 ![image](https://github.com/Datta1153/web-development-learning/assets/163277444/b5a2dea1-3316-43c8-a5b9-2575bfc53506)
+![image](https://github.com/Datta1153/web-development-learning/assets/163277444/3e9241ad-8224-456f-96ef-eb140938cbab)
+
 
